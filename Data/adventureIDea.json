@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Bungee Jump",
+        "details": "Bungee jumping is an activity that involves a person jumping from a great height while connected to a large elastic cord.",
+        "img": "https://tripcareadventures.com/wp-content/uploads/2019/03/bungee-jumping-freefall-river-landscape-239717.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Zip Lines",
+        "details": "From tropical zip lines in the Caribbean to flights over old-growth forest in Alaska, discover some of the best zip lines in the world.",
+        "img": "https://cdn2.veltra.com/ptr/20150205212820_777929742_3280_0.png?imwidth=550&impolicy=custom"
+    },
+    {
+        "id": "3",
+        "name": "Canoeing",
+        "details": "A canoe is a lightweight narrow water vessel, typically pointed at both ends and open on top.",
+        "img": "https://assets-global.website-files.com/620d33583b1d5d3a4049c7ed/624185ab700a37ea35cb728a_KW_3126_Kayak.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Kayaking",
+        "details": "Kayaking is a great sport for beginners since once you get the basic skills down, you can get started right away",
+        "img": "https://www.realnz.com/media/700416/go-orange-kayaks-3.jpg?anchor=center&mode=crop&width=900&heightratio=0.75&rnd=132938214180000000&quality=70"
+    }
+]

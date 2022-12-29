@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Complete Guide",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, nihil?",
+        "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/school-bag-2006388-1697542.png"
+    },
+    {
+        "id": "2",
+        "name": "Custom Packages",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, nihil?",
+        "img": "https://img.freepik.com/premium-vector/sport-shoe-icon_602006-2072.jpg?w=2000"
+    },
+    {
+        "id": "3",
+        "name": "Family Trips",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, nihil?",
+        "img": "https://www.nicepng.com/png/detail/527-5271630_this-site-contains-all-about-bus-vector-icon.png"
+    },
+    {
+        "id": "4",
+        "name": "Train Guides",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, nihil?",
+        "img": "https://static.thenounproject.com/png/331589-200.png"
+    },
+    {
+        "id": "5",
+        "name": "Adventure Trail",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, nihil?",
+        "img": "https://static.thenounproject.com/png/1087933-200.png"
+    },
+    {
+        "id": "6",
+        "name": "Various Adventures",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, nihil?",
+        "img": "https://static.thenounproject.com/png/1034013-200.png"
+    }
+]
