@@ -16,6 +16,7 @@ async function run() {
     try {
         const packageCollection = client.db('globe-explorer').collection('packages')
         const usersCollection = client.db('globe-explorer').collection('users')
+        const bookingCollection = client.db('globe-explorer').collection('booking')
         app.get('/packages', async (req, res) => {
             const query = {}
             const result = await packageCollection.find(query).toArray()
@@ -38,6 +39,22 @@ async function run() {
             const result = await usersCollection.insertOne(user)
             res.send(result);
         })
+
+        app.get('/booking', async (req, res) => {
+            const email = req.query.email
+            const query = { email: email};
+            const result = await bookingCollection.find(query).toArray()
+            res.send(result)
+        })
+        app.post('/booking', async (req, res) => {
+            const user = req.body;
+            const result = await bookingCollection.insertOne(user)
+            res.send(result);
+        })
+
+
+
+
     }
     finally {
 
